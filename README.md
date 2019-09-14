@@ -1,2 +1,3 @@
 # Cpt-Planet-Game
-practice game using jQuery
+A simple using jQuery
+
